@@ -1,0 +1,1091 @@
+﻿  pch.cpp
+  CalendarBar.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(18,1): error C2504:  'CWnd' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(25,29): error C3646:  'm_wndCalendar' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(25,29): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(27,21): error C3646:  'm_Images' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(27,21): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(31,44): error C2061:  erreur de syntaxe : identificateur 'CWnd'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(38,10): error C2144:  erreur de syntaxe : 'int' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(38,14): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(39,15): error C3646:  'BOOL' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(39,27): error C3646:  'OnEraseBkgnd' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(39,27): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(39,37): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(40,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(40,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(41,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(41,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(44,1): error C2143:  erreur de syntaxe : absence de ';' avant '}'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(44,1): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\CalendarBar.h(44,1): warning C4183:  'DECLARE_MESSAGE_MAP' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+  ClassView.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Modeler1.h(17,1): error C1189:  #error:  "include 'pch.h' before including this file for PCH"
+  dllmain.cpp
+  DrawingContext.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Modeler1.h(17,1): error C1189:  #error:  "include 'pch.h' before including this file for PCH"
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(127,1): error C2504:  'CObject' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(129,26): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(129,26): warning C4183:  'DECLARE_SERIAL' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,38): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(143,33): error C2061:  erreur de syntaxe : identificateur 'CArchive'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(144,46): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,20): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,36): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,34): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(153,29): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(153,29): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(160,21): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,21): error C3646:  'GetHandleRect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,21): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,18): error C3646:  'GetHandle' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,31): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(165,40): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(183,14): error C3646:  'm_rect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(183,14): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(184,16): error C3646:  'm_point' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(184,16): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(185,15): error C3646:  'm_last' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(185,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(214,44): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(214,54): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,53): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,51): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(8,23): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(8,53): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(12,11): error C2143:  erreur de syntaxe : absence de ';' avant '*'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(12,11): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(12,27): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(15,8): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(15,8): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(15,26): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(16,8): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(16,8): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(16,26): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(17,8): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(17,8): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(17,25): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(18,8): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(18,8): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(18,25): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(19,6): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(19,6): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(19,22): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(20,6): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(20,6): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(20,22): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(21,13): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(21,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(21,31): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(22,13): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(22,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(22,31): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(23,22): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(23,22): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(23,48): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(24,19): error C3646:  'GetTopLeft' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(24,19): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(24,22): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(25,23): error C3646:  'GetBottomRight' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(25,23): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(25,26): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(28,11): error C2143:  erreur de syntaxe : absence de ';' avant '*'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(28,11): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(28,24): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(32,23): error C3646:  'm_gdiColorWhite' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(32,23): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(33,23): error C3646:  'm_gdiColorBlack' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(33,23): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(34,22): error C3646:  'm_gdiColorLine' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(34,22): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(35,22): error C3646:  'm_gdiColorFill' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(35,22): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(36,19): error C3646:  'm_gdiPenBlack' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(36,19): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(37,19): error C3646:  'm_gdiPenColor' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(37,19): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(38,28): error C3646:  'm_gdiBrushColor' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(38,28): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(39,28): error C3646:  'm_gdiBrushBlack' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(39,28): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(40,40): error C3646:  'm_gdiGradientBrush' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(40,40): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(43,23): error C3646:  'm_pointTopLeft' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(43,23): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(44,27): error C3646:  'm_pointBottomRight' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(44,27): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(4,39): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(4,49): error C2065:  'shared_ptr' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(4,58): error C2275:  'CElement' : utilisation non conforme de ce type comme expression
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(126): message :  voir la déclaration de 'CElement'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(4,60): error C2065:  'pElement' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(4,18): error C7550:  'CDrawingContext::{ctor}' : le nom qualifié dans ce contexte nomme un constructeur et non un type
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(5,2): error C2448:  'CDrawingContext::{ctor}' : l'initialiseur de style fonction semble être une définition de fonction
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(5,2): error C2059:  erreur de syntaxe : ':'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(5,18): error C3861:  'Color' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(5,37): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(6,17): error C3861:  'Color' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(6,36): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(7,19): error C2065:  'm_gdiColorBlack' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(7,34): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(8,19): error C2065:  'm_gdiColorBlack' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(8,34): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(10,9): error C2065:  'pElement' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(10,32): error C2065:  'pElement' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(10,3): error C3861:  'Point' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(11,9): error C2065:  'pElement' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(11,33): error C2065:  'pElement' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(11,3): error C3861:  'Point' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(12,3): error C2065:  'm_gdiColorBlack' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(13,3): error C2065:  'm_gdiColorBlack' : identificateur non déclaré
+  DrawingElements.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.cpp(13,18): error C1003:  le nombre d'erreurs est supérieur à 100 ; arrêt de la compilation
+  Element.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Modeler1.h(17,1): error C1189:  #error:  "include 'pch.h' before including this file for PCH"
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(127,1): error C2504:  'CObject' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(129,26): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(129,26): warning C4183:  'DECLARE_SERIAL' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,38): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(143,33): error C2061:  erreur de syntaxe : identificateur 'CArchive'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(144,46): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,20): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,36): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,34): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(153,29): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(153,29): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(160,21): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,21): error C3646:  'GetHandleRect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,21): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,18): error C3646:  'GetHandle' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,31): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(165,40): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(183,14): error C3646:  'm_rect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(183,14): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(184,16): error C3646:  'm_point' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(184,16): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(185,15): error C3646:  'm_last' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(185,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(214,44): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(214,54): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,53): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,51): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(14,14): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(14,24): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(14,24): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(14,93): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(27,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(27,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(27,20): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(30,13): error C3646:  'm_uuid' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(30,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(6,22): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(6,22): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(9,1): error C2504:  'CObject' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(13,35): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(13,35): warning C4183:  'DECLARE_SERIAL' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(19,68): error C2061:  erreur de syntaxe : identificateur 'CArchive'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(23,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(23,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(23,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(23,57): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(24,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(24,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(24,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(24,62): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(25,48): error C2061:  erreur de syntaxe : identificateur 'vector'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(26,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(26,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(26,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(26,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(46,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(46,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(46,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(46,37): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(49,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(49,29): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(50,20): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(50,30): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(54,8): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(54,8): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(54,14): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(54,45): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(7,1): error C2504:  'CObject' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(11,33): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(11,33): warning C4183:  'DECLARE_SERIAL' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(26,14): error C3646:  'm_size' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(26,14): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(27,20): error C3646:  'm_lastPoint' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(27,20): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(48,22): error C3646:  'm_selectPoint' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(48,22): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(50,23): error C3646:  'm_selectionRect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(50,23): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(55,14): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(55,14): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(55,20): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(55,56): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(67,33): error C2061:  erreur de syntaxe : identificateur 'CArchive'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(69,51): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(70,50): error C2061:  erreur de syntaxe : identificateur 'CRect'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(70,57): error C2535:  'void CElementManager::ViewToManager(CModeler1View *)' : fonction membre déjà définie ou déclarée
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(69): message :  voir la déclaration de 'CElementManager::ViewToManager'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(71,51): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(72,50): error C2061:  erreur de syntaxe : identificateur 'CRect'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(72,57): error C2535:  'void CElementManager::ManagerToView(CModeler1View *)' : fonction membre déjà définie ou déclarée
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(71): message :  voir la déclaration de 'CElementManager::ManagerToView'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(74,46): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(74,56): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(75,40): error C2535:  'void CElementManager::Invalidate(CModeler1View *)' : fonction membre déjà définie ou déclarée
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(74): message :  voir la déclaration de 'CElementManager::Invalidate'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(76,44): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(76,54): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(77,15): error C3646:  'GetSize' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(77,15): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(77,24): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(81,64): error C2061:  erreur de syntaxe : identificateur 'CView'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(103,49): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(107,31): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(107,41): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(111,44): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(111,54): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(112,50): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+  ElementFactory.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(112,60): error C1003:  le nombre d'erreurs est supérieur à 100 ; arrêt de la compilation
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(127,1): error C2504:  'CObject' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(129,26): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(129,26): warning C4183:  'DECLARE_SERIAL' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,38): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(143,33): error C2061:  erreur de syntaxe : identificateur 'CArchive'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(144,46): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,20): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,36): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,34): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(153,29): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(153,29): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(160,21): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,21): error C3646:  'GetHandleRect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,21): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,18): error C3646:  'GetHandle' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,31): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(165,40): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(183,14): error C3646:  'm_rect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(183,14): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(184,16): error C3646:  'm_point' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(184,16): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(185,15): error C3646:  'm_last' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(185,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(214,44): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(214,54): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,53): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,51): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(14,14): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(14,24): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(14,24): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(14,93): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(27,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(27,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(27,20): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(30,13): error C3646:  'm_uuid' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(30,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(8,23): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(8,53): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(12,11): error C2143:  erreur de syntaxe : absence de ';' avant '*'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(12,11): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(12,27): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(15,8): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(15,8): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(15,26): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(16,8): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(16,8): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(16,26): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(17,8): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(17,8): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(17,25): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(18,8): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(18,8): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(18,25): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(19,6): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(19,6): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(19,22): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(20,6): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(20,6): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(20,22): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(21,13): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(21,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(21,31): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(22,13): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(22,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(22,31): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(23,22): error C2143:  erreur de syntaxe : absence de ';' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(23,22): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(23,48): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(24,19): error C3646:  'GetTopLeft' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(24,19): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(24,22): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(25,23): error C3646:  'GetBottomRight' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(25,23): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(25,26): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(28,11): error C2143:  erreur de syntaxe : absence de ';' avant '*'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(28,11): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(28,24): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(32,23): error C3646:  'm_gdiColorWhite' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(32,23): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(33,23): error C3646:  'm_gdiColorBlack' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(33,23): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(34,22): error C3646:  'm_gdiColorLine' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(34,22): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(35,22): error C3646:  'm_gdiColorFill' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(35,22): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(36,19): error C3646:  'm_gdiPenBlack' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(36,19): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(37,19): error C3646:  'm_gdiPenColor' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(37,19): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(38,28): error C3646:  'm_gdiBrushColor' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(38,28): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(39,28): error C3646:  'm_gdiBrushBlack' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(39,28): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(40,40): error C3646:  'm_gdiGradientBrush' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(40,40): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(43,23): error C3646:  'm_pointTopLeft' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(43,23): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(44,27): error C3646:  'm_pointBottomRight' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingContext.h(44,27): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingElements.h(81,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingElements.h(81,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingElements.h(81,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\DrawingElements.h(81,39): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.cpp(20,6): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.cpp(20,16): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.cpp(20,16): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.cpp(20,37): error C2039:  'CreateElementOfType' : n'est pas membre de 'CFactory'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(11): message :  voir la déclaration de 'CFactory'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.cpp(21,1): error C2143:  erreur de syntaxe : absence de ';' avant '{'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.cpp(21,1): error C2447:  '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.cpp(336,16): error C2039:  'ToString' : n'est pas membre de 'CGuid'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(20): message :  voir la déclaration de 'CGuid'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.cpp(336,24): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.cpp(336,24): error C2146:  erreur de syntaxe : absence de ';' avant l'identificateur 'ToString'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.cpp(337,1): error C2143:  erreur de syntaxe : absence de ';' avant '{'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.cpp(337,1): error C2447:  '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+  ElementManager.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.cpp(337,1): error C1003:  le nombre d'erreurs est supérieur à 100 ; arrêt de la compilation
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(127,1): error C2504:  'CObject' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(129,26): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(129,26): warning C4183:  'DECLARE_SERIAL' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,38): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(143,33): error C2061:  erreur de syntaxe : identificateur 'CArchive'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(144,46): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,20): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,36): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,34): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(153,29): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(153,29): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(160,21): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,21): error C3646:  'GetHandleRect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,21): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,18): error C3646:  'GetHandle' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,31): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(165,40): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(183,14): error C3646:  'm_rect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(183,14): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(184,16): error C3646:  'm_point' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(184,16): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(185,15): error C3646:  'm_last' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(185,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(214,44): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(214,54): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,53): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,51): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(6,22): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(6,22): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(9,1): error C2504:  'CObject' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(13,35): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(13,35): warning C4183:  'DECLARE_SERIAL' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(19,68): error C2061:  erreur de syntaxe : identificateur 'CArchive'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(23,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(23,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(23,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(23,57): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(24,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(24,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(24,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(24,62): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(25,48): error C2061:  erreur de syntaxe : identificateur 'vector'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(26,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(26,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(26,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(26,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(46,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(46,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(46,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(46,37): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(49,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(49,29): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(50,20): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(50,30): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(54,8): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(54,8): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(54,14): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementContainer.h(54,45): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(14,14): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(14,24): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(14,24): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(14,93): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(27,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(27,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(27,20): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(30,13): error C3646:  'm_uuid' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementFactory.h(30,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(7,1): error C2504:  'CObject' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(11,33): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(11,33): warning C4183:  'DECLARE_SERIAL' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(26,14): error C3646:  'm_size' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(26,14): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(27,20): error C3646:  'm_lastPoint' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(27,20): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(48,22): error C3646:  'm_selectPoint' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(48,22): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(50,23): error C3646:  'm_selectionRect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(50,23): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(55,14): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(55,14): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(55,20): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(55,56): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(67,33): error C2061:  erreur de syntaxe : identificateur 'CArchive'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(69,51): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(70,50): error C2061:  erreur de syntaxe : identificateur 'CRect'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(70,57): error C2535:  'void CElementManager::ViewToManager(CModeler1View *)' : fonction membre déjà définie ou déclarée
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(69): message :  voir la déclaration de 'CElementManager::ViewToManager'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(71,51): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(72,50): error C2061:  erreur de syntaxe : identificateur 'CRect'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(72,57): error C2535:  'void CElementManager::ManagerToView(CModeler1View *)' : fonction membre déjà définie ou déclarée
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(71): message :  voir la déclaration de 'CElementManager::ManagerToView'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(74,46): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(74,56): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(75,40): error C2535:  'void CElementManager::Invalidate(CModeler1View *)' : fonction membre déjà définie ou déclarée
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(74): message :  voir la déclaration de 'CElementManager::Invalidate'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(76,44): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(76,54): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(77,15): error C3646:  'GetSize' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(77,15): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(77,24): error C2334:  jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(81,64): error C2061:  erreur de syntaxe : identificateur 'CView'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(103,49): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(107,31): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(107,41): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(111,44): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(111,54): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(112,50): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+  FileView.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\ElementManager.h(112,60): error C1003:  le nombre d'erreurs est supérieur à 100 ; arrêt de la compilation
+  MainFrm.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Modeler1.h(17,1): error C1189:  #error:  "include 'pch.h' before including this file for PCH"
+  Modeler1.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Modeler1.h(17,1): error C1189:  #error:  "include 'pch.h' before including this file for PCH"
+  Modeler1Doc.cpp
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\atlmfc\include\afx.h(24,1): error C1189:  #error:  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+  Modeler1View.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Modeler1.h(17,1): error C1189:  #error:  "include 'pch.h' before including this file for PCH"
+  OutputWnd.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Modeler1.h(17,1): error C1189:  #error:  "include 'pch.h' before including this file for PCH"
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(18,1): error C2504:  'CListBox' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(28,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(28,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(28,33): error C2061:  erreur de syntaxe : identificateur 'CWnd'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(29,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(29,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(30,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(30,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(31,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(31,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(34,1): error C2143:  erreur de syntaxe : absence de ';' avant '}'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(34,1): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(34,1): warning C4183:  'DECLARE_MESSAGE_MAP' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(37,1): error C2504:  'CDockablePane' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(46,23): error C3646:  'm_wndTabs' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(46,23): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(53,32): error C2061:  erreur de syntaxe : identificateur 'CString'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(60,32): error C2061:  erreur de syntaxe : identificateur 'CListBox'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(67,10): error C2144:  erreur de syntaxe : 'int' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(67,14): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(68,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(68,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(71,1): error C2143:  erreur de syntaxe : absence de ';' avant '}'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(71,1): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\OutputWnd.h(71,1): warning C4183:  'DECLARE_MESSAGE_MAP' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(15,1): error C2504:  'CMFCRibbonGallery' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(19,1): error C2143:  erreur de syntaxe : absence de ';' avant 'public'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(19,7): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(19,7): warning C4183:  'DECLARE_DYNCREATE' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(22,83): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(23,41): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(27,104): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(27,104): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(32,27): error C3646:  'GetIconSize' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(32,28): error C2059:  erreur de syntaxe : ')'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(32,35): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(33,36): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(34,51): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(34,51): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(42,26): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(46,32): error C3646:  'm_listImages' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(46,32): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(47,25): error C3646:  'm_arLabels' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(47,25): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(48,21): error C3646:  'm_sizeMargins' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(48,21): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(50,21): error C3646:  'm_sizeMaxText' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(50,21): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(54,1): error C2504:  'CMFCRibbonGallery' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(57,1): error C2143:  erreur de syntaxe : absence de ';' avant 'public'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(57,7): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(57,7): warning C4183:  'DECLARE_DYNCREATE' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(60,20): error C3646:  'm_Caption' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(60,20): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(99,16): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(99,16): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(99,38): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(105,165): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(105,155): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(109,98): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(109,98): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(113,27): error C3646:  'GetIconSize' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(113,28): error C2059:  erreur de syntaxe : ')'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(113,35): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(114,36): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(115,51): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(115,51): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(118,26): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(122,32): error C3646:  'm_listImages' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(122,32): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(123,18): error C3646:  'm_arItems' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(123,18): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(124,21): error C3646:  'm_sizeMargins' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(124,21): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(125,21): error C3646:  'm_sizeMaxText' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(125,21): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(90,4): error C2065:  'm_Caption' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(90,1): error C2039:  'm_Caption' : n'est pas membre de 'CRibbonListFontButton::XItem'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(58): message :  voir la déclaration de 'CRibbonListFontButton::XItem'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(127,1): error C2504:  'CObject' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(129,26): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(129,26): warning C4183:  'DECLARE_SERIAL' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,38): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(143,33): error C2061:  erreur de syntaxe : identificateur 'CArchive'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(144,46): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,20): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,36): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,34): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(153,29): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(153,29): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(160,21): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,21): error C3646:  'GetHandleRect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,21): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,18): error C3646:  'GetHandle' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,31): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(165,40): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(183,14): error C3646:  'm_rect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(183,14): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(184,16): error C3646:  'm_point' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(184,16): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(185,15): error C3646:  'm_last' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(185,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(214,44): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(214,54): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,53): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,51): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(16,1): error C2504:  'CMFCToolBar' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(18,38): error C2061:  erreur de syntaxe : identificateur 'CFrameWnd'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(20,1): error C2653:  'CMFCToolBar' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(20,31): error C2065:  'CFrameWnd' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(20,1): error C2059:  erreur de syntaxe : ')'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(27,1): error C2504:  'CDockablePane' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(49,21): error C3646:  'm_fntPropList' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(49,21): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(50,28): error C3646:  'm_wndObjectCombo' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(50,28): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(52,36): error C3646:  'm_wndPropList' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(52,36): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(58,29): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(58,39): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(59,62): error C2061:  erreur de syntaxe : identificateur 'COleVariant'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(63,10): error C2144:  erreur de syntaxe : 'int' doit être précédé de ';'
+  PropertiesWnd.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(63,14): error C1003:  le nombre d'erreurs est supérieur à 100 ; arrêt de la compilation
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(127,1): error C2504:  'CObject' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(129,26): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(129,26): warning C4183:  'DECLARE_SERIAL' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,7): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,17): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,17): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(139,38): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(143,33): error C2061:  erreur de syntaxe : identificateur 'CArchive'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(144,46): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(149,20): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(150,36): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,18): error C3646:  'ToString' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(151,34): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(153,29): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(153,29): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(160,21): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,21): error C3646:  'GetHandleRect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,21): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(161,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,18): error C3646:  'GetHandle' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,18): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(162,31): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(165,40): error C2061:  erreur de syntaxe : identificateur 'CPoint'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(183,14): error C3646:  'm_rect' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(183,14): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(184,16): error C3646:  'm_point' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(184,16): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(185,15): error C3646:  'm_last' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(185,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(214,44): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(214,54): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(243,53): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(244,51): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,7): error C2039:  'vector' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,13): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,13): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,19): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\Element.h(245,58): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(16,1): error C2504:  'CMFCToolBar' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(18,38): error C2061:  erreur de syntaxe : identificateur 'CFrameWnd'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(20,1): error C2653:  'CMFCToolBar' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(20,31): error C2065:  'CFrameWnd' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(20,1): error C2059:  erreur de syntaxe : ')'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(27,1): error C2504:  'CDockablePane' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(49,21): error C3646:  'm_fntPropList' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(49,21): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(50,28): error C3646:  'm_wndObjectCombo' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(50,28): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(52,36): error C3646:  'm_wndPropList' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(52,36): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(58,29): error C2039:  'shared_ptr' : n'est pas membre de 'std'
+D:\VisualStudio\VC\Tools\MSVC\14.22.27905\include\string(19): message :  voir la déclaration de 'std'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(58,39): error C2061:  erreur de syntaxe : identificateur 'shared_ptr'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(59,62): error C2061:  erreur de syntaxe : identificateur 'COleVariant'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(63,10): error C2144:  erreur de syntaxe : 'int' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(63,14): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(64,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(64,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(65,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(65,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(66,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(66,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(66,49): error C2061:  erreur de syntaxe : identificateur 'CCmdUI'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(67,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(67,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(68,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(68,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(68,44): error C2061:  erreur de syntaxe : identificateur 'CCmdUI'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(69,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(69,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(70,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(70,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(70,41): error C2061:  erreur de syntaxe : identificateur 'CCmdUI'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(71,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(71,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(72,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(72,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(72,41): error C2061:  erreur de syntaxe : identificateur 'CCmdUI'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(73,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(73,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(73,30): error C2061:  erreur de syntaxe : identificateur 'CWnd'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(74,10): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(74,15): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(75,18): error C3646:  'LRESULT' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(75,35): error C3646:  'OnPropertyChanged' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(75,35): error C2059:  erreur de syntaxe : '('
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(75,50): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(79,2): error C2144:  erreur de syntaxe : 'void' doit être précédé de ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(79,7): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(79,7): warning C4183:  'DECLARE_MESSAGE_MAP' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(38,3): error C2065:  'm_wndPropList' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\PropertiesWnd.h(39,3): error C2065:  'm_wndPropList' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(15,1): error C2504:  'CMFCRibbonGallery' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(19,1): error C2143:  erreur de syntaxe : absence de ';' avant 'public'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(19,7): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(19,7): warning C4183:  'DECLARE_DYNCREATE' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(22,83): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(23,41): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(27,104): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(27,104): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(32,27): error C3646:  'GetIconSize' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(32,28): error C2059:  erreur de syntaxe : ')'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(32,35): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(33,36): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(34,51): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(34,51): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(42,26): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(46,32): error C3646:  'm_listImages' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(46,32): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(47,25): error C3646:  'm_arLabels' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(47,25): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(48,21): error C3646:  'm_sizeMargins' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(48,21): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(50,21): error C3646:  'm_sizeMaxText' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(50,21): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(54,1): error C2504:  'CMFCRibbonGallery' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(57,1): error C2143:  erreur de syntaxe : absence de ';' avant 'public'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(57,7): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(57,7): warning C4183:  'DECLARE_DYNCREATE' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(60,20): error C3646:  'm_Caption' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(60,20): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(99,16): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(99,16): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(99,38): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(105,165): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(105,155): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(109,98): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(109,98): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(113,27): error C3646:  'GetIconSize' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(113,28): error C2059:  erreur de syntaxe : ')'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(113,35): error C2238:  jetons inattendus avant ';'
+  RibbonListButton.cpp
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(113,35): error C1003:  le nombre d'erreurs est supérieur à 100 ; arrêt de la compilation
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(15,1): error C2504:  'CMFCRibbonGallery' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(19,1): error C2143:  erreur de syntaxe : absence de ';' avant 'public'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(19,7): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(19,7): warning C4183:  'DECLARE_DYNCREATE' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(22,83): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(23,41): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(27,104): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(27,104): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(32,27): error C3646:  'GetIconSize' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(32,28): error C2059:  erreur de syntaxe : ')'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(32,35): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(33,36): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(34,51): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(34,51): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(42,26): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(46,32): error C3646:  'm_listImages' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(46,32): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(47,25): error C3646:  'm_arLabels' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(47,25): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(48,21): error C3646:  'm_sizeMargins' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(48,21): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(50,21): error C3646:  'm_sizeMaxText' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(50,21): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(54,1): error C2504:  'CMFCRibbonGallery' : classe de base non définie
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(57,1): error C2143:  erreur de syntaxe : absence de ';' avant 'public'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(57,7): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(57,7): warning C4183:  'DECLARE_DYNCREATE' : type de retour manquant ; fonction membre retournant 'int' prise par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(60,20): error C3646:  'm_Caption' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(60,20): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(99,16): error C2143:  erreur de syntaxe : absence de ';' avant '<'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(99,16): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(99,38): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(105,165): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(105,155): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(109,98): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(109,98): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(113,27): error C3646:  'GetIconSize' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(113,28): error C2059:  erreur de syntaxe : ')'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(113,35): error C2238:  jetons inattendus avant ';'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(114,36): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(115,51): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(115,51): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(118,26): error C2061:  erreur de syntaxe : identificateur 'CDC'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(122,32): error C3646:  'm_listImages' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(122,32): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(123,18): error C3646:  'm_arItems' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(123,18): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(124,21): error C3646:  'm_sizeMargins' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(124,21): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(125,21): error C3646:  'm_sizeMaxText' : spécificateur de substitution inconnu
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(125,21): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(90,4): error C2065:  'm_Caption' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(90,1): error C2039:  'm_Caption' : n'est pas membre de 'CRibbonListFontButton::XItem'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.h(58): message :  voir la déclaration de 'CRibbonListFontButton::XItem'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(34,57): error C2061:  erreur de syntaxe : identificateur 'CMFCRibbonGallery'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(36,20): error C2143:  erreur de syntaxe : absence de ';' avant 'CRibbonListButton::{ctor}'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(36,37): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(38,2): error C2065:  'm_sizeMargins' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(38,18): error C3861:  'CSize' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(42,71): error C3861:  'CSize' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(42,2): error C2614:  'CRibbonListButton' : initialisation de membre non conforme : 'CMFCRibbonGallery' n'est ni une base ni un membre
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(44,2): error C3861:  'SetButtonMode' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(47,2): error C2065:  'm_sizeMargins' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(47,18): error C3861:  'CSize' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(48,2): error C2065:  'm_sizeMaxText' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(48,18): error C3861:  'CSize' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(52,41): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(52,41): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(53,71): error C3861:  'CSize' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(53,2): error C2614:  'CRibbonListButton' : initialisation de membre non conforme : 'CMFCRibbonGallery' n'est ni une base ni un membre
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(55,2): error C3861:  'SetButtonMode' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(56,22): error C2065:  'bRightAlignedText' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(58,2): error C2065:  'm_listImages' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(61,12): error C2065:  'm_listImages' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(63,2): error C2065:  'm_listImages' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(63,28): error C3861:  'CSize' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(64,2): error C2065:  'm_imagesPalette' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(64,31): error C2065:  'm_listImages' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(65,2): error C2065:  'm_arLabels' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(65,18): error C2065:  'arLabels' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(67,2): error C2065:  'm_nIcons' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(67,19): error C2065:  'm_arLabels' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(71,2): error C2065:  'm_sizeMargins' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(71,18): error C3861:  'CSize' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(72,2): error C2065:  'm_sizeMaxText' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(72,18): error C3861:  'CSize' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(87,4): error C3861:  'SetIconsInRow' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(92,122): error C4430:  spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(92,122): error C2143:  erreur de syntaxe : absence de ',' avant '&'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(94,29): error C2653:  'CMFCRibbonGallery' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(94,51): error C2065:  'arLabels' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(94,69): error C2660:  'CRibbonListButton::AddGroup' : la fonction ne prend pas 1 arguments
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(92,25): message :  voir la déclaration de 'CRibbonListButton::AddGroup'
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(95,22): error C2065:  'arLabels' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(97,36): error C2653:  'CMFCRibbonGallery' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(97,40): error C2065:  'arLabels' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(97,22): error C3861:  'SetItemToolTip' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(102,7): error C2065:  'm_listImages' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(104,4): error C2065:  'm_listImages' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(107,14): error C2065:  'm_listImages' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(109,4): error C2065:  'm_listImages' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(109,30): error C3861:  'CSize' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(110,4): error C2065:  'm_imagesPalette' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(110,33): error C2065:  'm_listImages' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(114,29): error C2065:  'm_listImages' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(114,4): error C3861:  'ASSERT' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(115,4): error C2065:  'm_listImages' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(119,6): error C2065:  'm_arLabels' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(121,3): error C2065:  'm_arLabels' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(121,19): error C2065:  'arLabels' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(125,3): error C2065:  'm_arLabels' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(125,21): error C2065:  'arLabels' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(128,2): error C2065:  'm_nIcons' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(128,19): error C2065:  'm_arLabels' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(132,2): error C3861:  'RemoveAll' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(133,2): error C2065:  'm_sizeMaxText' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(133,18): error C3861:  'CSize' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(138,26): error C2653:  'CMFCRibbonGallery' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(140,2): error C2065:  'm_arLabels' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(141,2): error C2065:  'm_sizeMaxText' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(141,18): error C3861:  'CSize' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(146,2): error C3861:  'ASSERT_VALID' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(148,40): error C2653:  'CMFCRibbonBaseElement' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(150,6): error C2065:  'm_sizeMaxText' : identificateur non déclaré
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(150,23): error C3861:  'CSize' : identificateur introuvable
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(152,3): error C2065:  'CMFCRibbonBar' : identificateur non déclaré
+  Génération de code en cours...
+C:\Users\Paul\source\repos\TPNoté\TPNoteCPP\TPNoteCPP\RibbonListButton.cpp(152,16): error C1003:  le nombre d'erreurs est supérieur à 100 ; arrêt de la compilation
